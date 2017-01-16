@@ -1,4 +1,4 @@
-class XClean < Formula
+class Xclean < Formula
   desc "CLI tool to clean after XCode"
   homepage "https://github.com/deszip/xclean"
   url ""
